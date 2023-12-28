@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CancelAllPipeLines/CancelAllPipeLines.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Publisher/Publisher.xcodeproj">
    </FileRef>
 </Workspace>

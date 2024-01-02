@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:TimerConnect/TimerConnect.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:PassThroughSubject/PassThroughSubject.xcodeproj">
    </FileRef>
    <FileRef

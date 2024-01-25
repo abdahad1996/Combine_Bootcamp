@@ -3,7 +3,21 @@
    version = "1.0">
    <Group
       location = "container:"
+      name = "Operators">
+   </Group>
+   <Group
+      location = "container:"
+      name = "Subscribers">
+   </Group>
+   <Group
+      location = "container:"
       name = "Publishers">
+      <FileRef
+         location = "group:CurrentValueSubject/../Empty&amp;Fail/Empty&amp;Fail.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:../Desktop/URLDataTaskPublisher/URLDataTaskPublisher.xcodeproj">
+      </FileRef>
       <FileRef
          location = "group:TimerConnect/TimerConnect.xcodeproj">
       </FileRef>
